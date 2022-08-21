@@ -1,4 +1,10 @@
 {
   "item.mangotechores.tin_ingot": "Tin Ingot",
-  "item.mangotechores.tin_nugget": "Tin Nugget"
+  "item.mangotechores.tin_nugget": "Tin Nugget",
+
+  "block.mangotechores.tin_block": "Tin Block",
+  "block.mangotechores.bronze_block": "Bronze Block",
+
+  "itemGroup.mangotechores": "Mango Tech Ores",
+  "itemGroup.mangotechblocks": "Mango Tech Blocks"
 }
