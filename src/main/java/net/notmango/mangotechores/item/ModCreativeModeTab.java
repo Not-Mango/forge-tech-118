@@ -9,6 +9,13 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab MANGO_ORES = new CreativeModeTab("mangotechores") {
         @Override
         public ItemStack makeIcon() {
+            return new ItemStack(ModBlocks.TIN_ORE.get());
+        }
+    };
+
+    public static final CreativeModeTab MANGO_INGOTS = new CreativeModeTab("mangotechingots") {
+        @Override
+        public ItemStack makeIcon() {
             return new ItemStack(ModItems.TIN_INGOT.get());
         }
     };
